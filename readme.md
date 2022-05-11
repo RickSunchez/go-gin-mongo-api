@@ -1,6 +1,6 @@
 # Skillbox lesson 31
 
-1. run mongodb at localhost:27017
+1. run mongodb on ```localhost:27017```
 
 2. test server:
 
@@ -20,3 +20,5 @@ go run ./cmd/server/server.go -p 9000
 ```bash
 go run ./cmd/proxy/proxy.go
 ```
+
+5. proxy running on ```localhost:8080```
